@@ -1,4 +1,3 @@
-spring.application.name: Coupons
 eureka.instance.prefer-ip-address: true
 
 

@@ -3,6 +3,7 @@ eureka.instance.prefer-ip-address: true
 
 spring.h2.console.enabled: true
 spring.datasource.url: jdbc:h2:mem:coupons
+spring.datasource.password: '{cipher}d06c1f1563f8a5b236c83d4bac82269f536d3fe2bcd1146b7ff361edbe60ccfa96b62784cbb4fa9134281cfa0fec367c'
 spring:
   jpa:
     hibernate:

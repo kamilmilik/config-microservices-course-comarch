@@ -10,4 +10,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 custom:
   api:
-    version: 2
+    version: 1
